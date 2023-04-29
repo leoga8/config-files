@@ -32,3 +32,4 @@ disabled = false
 [os.symbols]
 Macos = ''
 Raspbian = 'π'
+Debian = "🌀 "
