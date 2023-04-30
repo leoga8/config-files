@@ -1,5 +1,5 @@
 # config-files
-Configuration files I use for new laptops
+Config files I use for new laptops
 
 # Contents
-- starship.toml -> This is my Starship style configureation
+- starship.toml -> This is my Starship style configuration
