@@ -32,4 +32,7 @@ disabled = false
 [os.symbols]
 Macos = ''
 Raspbian = 'π'
-Debian = '∂'
+Debian = '∂
+
+[line_break]
+disabled = true
